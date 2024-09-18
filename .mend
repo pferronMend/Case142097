@@ -1,9 +1,9 @@
 {
   "settingsInheritedFrom": "pferronMend/whitesource-config@main",
   "remediateSettings": {
-	"draftPR": true,
+    "draftPR": true,
     "enableRenovate": true,
-	"extends": ["config:recommended"],
+    "extends": ["config:recommended"],
     "workflowRules": {
 		"enabled": true
     }
